@@ -9,11 +9,6 @@
 ![](https://img.shields.io/badge/AlmaLinux%20kernels/amd64-4.18.0%20%7C%205.14.0-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=almalinux)  
 ![](https://img.shields.io/badge/RockyLinux%20kernels/amd64-4.18.0%20%7C%205.14.0-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
 
-
-## About the project 
-
-This repository contains Volatility2 profiles, generated against a panel of Linux kernels. It includes most version and subversion that ever existed for a kernel release.
-
 ## Related work 
 
 A similar project for Volatility3 symbols is available here : https://github.com/Abyss-W4tcher/volatility3-symbols
