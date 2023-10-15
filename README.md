@@ -1,6 +1,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/5088/5088992.png" width="3%" height="3%"> Volatility2 profiles
 
-![](https://img.shields.io/badge/Profiles-8587-seagreen?style=flat-square)
+![](https://img.shields.io/badge/Profiles-8643-seagreen?style=flat-square)
 
 ![](https://img.shields.io/badge/Ubuntu-amd64%20|%20i386-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=ubuntu)  
 ![](https://img.shields.io/badge/Debian-amd64-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=debian)  
