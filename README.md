@@ -47,7 +47,7 @@ https://github.com/volatilityfoundation/volatility/pull/852
 
 - *A profile does not work. Can you help me with this ?*
 
-If you are indeed using the correct profile from this repository, and it doesn't work with your memory dump, check online if someone already ran into the same problem. The opposite case, feel free to open an issue, by describing clearly what you are experiencing.
+If you are indeed using the correct profile from this repository, and it doesn't work with your memory dump, check online if someone already ran into the same problem. The opposite case, feel free to open an issue, and describe clearly what you are experiencing.
 
 ## Volatility patches 
 
