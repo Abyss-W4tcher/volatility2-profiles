@@ -32,6 +32,10 @@ Be aware that including too much content inside the profiles directory will cons
 
 If you cannot find an exact match for your memory dump kernel version in this repository, search for the closest one available and give it a try.
 
+## Support
+
+Linux kernel `6.X`+ profiles are discontinued in this repository, because Volatility 2 is unmaintained and does not support them correctly. However, profiles for the Linux kernel below `6.X` will still be generated regularly.
+
 ## FAQ
 
 - *Some distributions are missing. Do you plan to add them anytime soon?*
