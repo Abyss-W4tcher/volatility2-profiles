@@ -8,11 +8,9 @@
 ![](https://img.shields.io/badge/AlmaLinux-x86__64-darkcyan?labelColor=lightsteelblue&style=for-the-badge&logo=almalinux)  
 ![](https://img.shields.io/badge/RockyLinux-x86__64-dodgerblue?labelColor=lightsteelblue&style=for-the-badge&logo=rockylinux)  
 
-## Related work 
+## Respository is now archived
 
-A similar project for Volatility3 symbols is available here : https://github.com/Abyss-W4tcher/volatility3-symbols
-
-EZ Volatility install script : https://github.com/Abyss-W4tcher/volatility-scripts/tree/master/vol_ez_install
+Since [Volatility3 reached parity with Volatility2](https://volatilityfoundation.org/announcing-the-official-parity-release-of-volatility-3/), this repository is now discontinued in favor of https://github.com/Abyss-W4tcher/volatility3-symbols.
 
 ## Format
 
